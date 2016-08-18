@@ -1,16 +1,16 @@
-typography_spectrum: 0.015682303113862872
+typography_spectrum: 0.16187418438494205
 color:
-  brandStrength: 0.12487559556029737
-  lightness: 0.4049837568309158
-  saturation: 0.8872229235712439
-  rhythmicContrast: 0.7293080254457891
+  brandStrength: 0.6593869016505778
+  lightness: 0.786680051824078
+  saturation: 0.7850795239210129
+  rhythmicContrast: 0.9329149425029755
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.8448568319436163
+    - '#ECEBE9'
+    - '#83C7BD'
+    - '#F6AA60'
+    - '#B7AAA2'
+    - '#68635D'
+layout_spectrum: 0.6301520767156035
 name: Skunc Werx
 navigation:
   - name: There's still room for small roasters.
