@@ -12,3 +12,7 @@ color:
     - '#4BB5C1'
     - '#7FC6BC'
 name: Skunc Werx
+navigation:
+  - name: There's still room for small roasters.
+    id: 7768d3e3-51cd-4c94-ba64-b49a320185ab
+    type: content
